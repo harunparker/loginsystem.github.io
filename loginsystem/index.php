@@ -8,6 +8,7 @@ echo  "
 <a href='login.php' ><button type='button ' class='btn btn-dark  ' >LOGOUT</button></a>
 </div>
 ";
+?>
 
 
  
